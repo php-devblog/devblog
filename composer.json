@@ -1,0 +1,29 @@
+{
+    "name": "devblog/devblog",
+    "description": "Devblog Framework",
+    "type": "library",
+    "homepage": "https://devblog.cc",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Robert Stamm",
+            "email": "robert@devblog.cc",
+            "homepage": "https://devblog.cc",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "The Devblog Community",
+            "homepage": "https://github.com/php-devblog/devblog/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/php-devblog/devblog/issues"
+    },
+    "require": {
+        "php": "^8.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3.0"
+    },
+    "prefer-stable": true
+}
